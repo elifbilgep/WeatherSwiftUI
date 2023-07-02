@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 28.386,
+        "lat": 37.165
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 305.27,
+        "feels_like": 303.24,
+        "temp_min": 305.27,
+        "temp_max": 305.27,
+        "pressure": 1009,
+        "humidity": 20,
+        "sea_level": 1009,
+        "grnd_level": 941
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 4.52,
+        "deg": 254,
+        "gust": 4.12
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1688297919,
+    "sys": {
+        "country": "TR",
+        "sunrise": 1688266207,
+        "sunset": 1688319023
+    },
+    "timezone": 10800,
+    "id": 304184,
+    "name": "Muğla",
+    "cod": 200
+}
